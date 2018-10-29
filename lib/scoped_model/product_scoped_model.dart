@@ -5,7 +5,7 @@ import 'package:products_tutorial/model/any_image.dart';
 import 'package:products_tutorial/model/category.dart';
 
 import 'package:products_tutorial/model/product.dart';
-import 'package:products_tutorial/util/remote_config.dart';
+//import 'package:products_tutorial/util/remote_config.dart';
 import 'package:scoped_model/scoped_model.dart';
 
 class ProductScopedModel extends Model {
